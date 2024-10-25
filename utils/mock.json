@@ -1,0 +1,82 @@
+[
+    {
+        "id": "b24b2a6c-9c31-42c3-a5b1-c4ec3145b8b1",
+        "name": "Nissan Skyline GT-R R34",
+        "year": 1999,
+        "description": "O icônico carro de Brian O'Conner.",
+        "sold": false,
+        "created": "2024-01-01T12:00:00Z"
+    },
+    {
+        "id": "3d7c8e85-c5c3-4b1e-94cb-9d6be4b93b7e",
+        "name": "Toyota Supra Mk IV",
+        "year": 1995,
+        "description": "Carro clássico de Brian O'Conner, modificado para corridas.",
+        "sold": true,
+        "created": "2024-02-15T15:30:00Z"
+    },
+    {
+        "id": "a87f8f4e-e928-4b6f-9a6f-2b3f8b55c889",
+        "name": "Mitsubishi Eclipse",
+        "year": 1995,
+        "description": "Primeiro carro de Brian O'Conner na franquia.",
+        "sold": true,
+        "created": "2024-04-10T10:00:00Z"
+    },
+    {
+        "id": "9b2e3c9d-17d5-4bfc-94a5-5f2efb8c7d9a",
+        "name": "Dodge Charger R/T",
+        "year": 1970,
+        "description": "O lendário carro de Dominic Toretto.",
+        "sold": false,
+        "created": "2024-03-12T08:45:00Z"
+    },
+    {
+        "id": "5ab0de2c-1a85-4db7-bb62-6d7a945bcd7b",
+        "name": "Mazda RX-7",
+        "year": 1993,
+        "description": "Carro de corrida de Dominic Toretto.",
+        "sold": false,
+        "created": "2024-05-22T17:20:00Z"
+    },
+    {
+        "id": "a7e3d7c8-85fb-4b5e-9c4f-c5f8e92b01ae",
+        "name": "Chevrolet Chevelle SS",
+        "year": 1970,
+        "description": "Muscle car clássico de Dom.",
+        "sold": false,
+        "created": "2024-07-19T14:50:00Z"
+    },
+    {
+        "id": "cf2845e7-f2a7-4d1c-94a4-1c19fbe1d7d8",
+        "name": "Honda S2000",
+        "year": 2000,
+        "description": "Carro de Johnny Tran, rival de Dom.",
+        "sold": true,
+        "created": "2024-06-30T09:15:00Z"
+    },
+    {
+        "id": "b7c9f4e3-2a6b-4d5e-8a5b-d5c9a7c4d8f9",
+        "name": "Ford Mustang Fastback",
+        "year": 1967,
+        "description": "Carro de Sean Boswell em 'Desafio em Tóquio'.",
+        "sold": true,
+        "created": "2024-08-25T13:25:00Z"
+    },
+    {
+        "id": "7b3f6e5a-85e4-42c5-8d5a-f7b5a2c4e8f7",
+        "name": "Nissan 350Z",
+        "year": 2003,
+        "description": "Carro de drift de Takashi, o 'Drift King'.",
+        "sold": true,
+        "created": "2024-10-11T18:05:00Z"
+    },
+    {
+        "id": "6f7e8d2a-3f4c-4b9b-8c9f-a7d6f8c3d7b8",
+        "name": "Mitsubishi Eclipse Spyder",
+        "year": 2003,
+        "description": "Conversível rosa de Roman Pearce em 'Mais Velozes e Mais Furiosos'.",
+        "sold": true,
+        "created": "2024-10-11T18:05:00Z"
+    }
+]
